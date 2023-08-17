@@ -1,7 +1,7 @@
 # SummarEdge
 
 An AI-powered web application that generates summaries for websites. The app is built using Vite, React, Tailwind CSS, and integrates with the ChatGPT4 API to provide accurate and concise summaries of web content.
-
+![App Screenshot](screenshot.png)
 
 ## Features
 
