@@ -15,8 +15,8 @@ An AI-powered web application that generates summaries for websites. The app is 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ai-summarizer-app.git
-   cd ai-summarizer-app
+   git clone https://github.com/your-username/SummarEdge.git
+   cd SummarEdge
    ```
 2. Install Dependencies
 ```bash
